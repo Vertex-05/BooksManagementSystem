@@ -1,0 +1,52 @@
+ID, title, author, category, availability
+BK00002,Dune, Frank Herbert,book,0
+BK00003,Emma, Jane Austen  ,book,1
+BK00004,It, Stephen King  ,book,4
+BK00005,Sula, Toni Morrison  ,book,4
+BK00006,Beloved, Toni Morrison  ,book,3
+BK00007,Dracula, Bram Stoker  ,book,5
+BK00008,Rebecca, Daphne du Maurier  ,book,0
+BK00009,Lolita, Vladimir Nabokov  ,book,5
+BK00010,Hatchet, Gary Paulsen  ,book,5
+BK00011,Carrie, Stephen King  ,book,5
+BK00012,Mockingbird, Kathryn Erskine  ,book,5
+BK00013,Gilead, Marilynne Robinson  ,book,5
+BK00014,Hamnet, Maggie O'Farrell  ,book,0
+BK00015,Passing, Nella Larsen  ,book,0
+BK00016,Tuck, Natalie Babbitt  ,book,0
+BK00017,Shiloh, Phyllis Reynolds Naylor  ,book,0
+BK00018,Inferno, Dante Alighieri  ,book,0
+BK00019,Stoner, John Williams  ,book,5
+BK00020,Candide, Voltaire  ,book,5
+BK00021,Room, Emma Donoghue  ,book,2
+BK00022,Matilda, Roald Dahl  ,book,5
+BK00023,Wonder, R.J. Palacio  ,book,5
+BK00024,Stargirl, Jerry Spinelli  ,book,5
+BK00025,Norwegian Wood, Haruki Murakami  ,book,5
+BK00026,Nature, Various Authors  ,journal,5
+BK00027,Cell, Various Authors  ,journal,5
+BK00028,Science, Various Authors  ,journal,5
+BK00029,JAMA, Various Authors  ,journal,5
+BK00030,Time, Various Authors,magazine,5
+BK00031,Updated Book,New Author,book,5
+BK00100,The Great Gatsby,F. Scott Fitzgerald,book,10
+BK00101,To Kill a Mockingbird,Harper Lee,book,10
+BK00102,Pride and Prejudice,Jane Austen,book,10
+BK00103,The Catcher in the Rye,J.D. Salinger,book,10
+BK00104,Of Mice and Men,John Steinbeck,book,10
+BK00105,The Lord of the Rings,J.R.R. Tolkien,book,10
+BK00106,Harry Potter and the Sorcerer's Stone,J.K. Rowling,book,10
+BK00107,A Tale of Two Cities,Charles Dickens,book,10
+BK00108,War and Peace,Leo Tolstoy,book,10
+BK00109,Gone with the Wind,Margaret Mitchell,book,10
+BK00110,Crime and Punishment,Fyodor Dostoevsky,book,10
+BK00111,The Old Man and the Sea,Ernest Hemingway,book,10
+BK00112,Catch-22,Joseph Heller,book,10
+BK00113,The Grapes of Wrath,John Steinbeck,book,10
+BK00114,Brave New World,Aldous Huxley,book,10
+BK00115,Animal Farm,George Orwell,book,10
+BK00116,The Picture of Dorian Gray,Oscar Wilde,book,10
+BK00117,The Hobbit,J.R.R. Tolkien,book,10
+BK00118,Sense and Sensibility,Jane Austen,book,10
+BK00119,The Sound and the Fury,William Faulkner,book,10
+BK10000,bbb,yyyy,jjj,7
